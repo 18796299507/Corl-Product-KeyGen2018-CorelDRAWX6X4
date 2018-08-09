@@ -19,3 +19,5 @@ Gitgub账号：COCO5666
 
 Github主页：
 https://github.com/COCO5666
+
+为了获得更好的浏览体验，请使用电脑访问我的Github，博客的话最好也用电脑。
