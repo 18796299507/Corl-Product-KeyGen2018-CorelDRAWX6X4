@@ -21,3 +21,7 @@ Github主页：
 https://github.com/COCO5666
 
 为了获得更好的浏览体验，请使用电脑访问我的Github，博客的话最好也用电脑。
+
+Github CDR与CVS（科亿尔公司开发的CDR与会声会影）代码仓库，里面的文章大家如果不想用电脑下载，也可以百度标题：
+
+https://github.com/COCO5666/CorelDRAW2018-CVS
